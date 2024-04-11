@@ -1,0 +1,10 @@
+com\snake\game\TextWebSocketFrameHandler.class
+com\snake\game\SnakeServerChannelInitializer.class
+com\snake\game\HttpRequestHandler.class
+com\snake\game\model\Game.class
+com\snake\game\SnakeServer$1.class
+com\snake\game\SecureSnakeServer.class
+com\snake\game\SecureSnakeServerChannelIntializer.class
+com\snake\game\SecureSnakeServer$1.class
+com\snake\game\model\Player.class
+com\snake\game\SnakeServer.class
